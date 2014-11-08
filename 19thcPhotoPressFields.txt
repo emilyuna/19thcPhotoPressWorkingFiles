@@ -1,0 +1,36 @@
+Fields to capture
+id_inst:
+pub_location
+lcsh
+loc_call_num_subject
+publisher
+pub_date_numeric
+online_avail
+format
+title_sort
+language
+title
+holding_libs
+id_oclc
+call_num
+title_link_friendly
+
+For these next ones, I think "source_record": comes first
+362a
+245a
+525a
+785t
+260a
+260b
+260c
+780t
+580a
+300a
+300b
+310a
+210a
+550a
+785c
+245h
+650v
+
